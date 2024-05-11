@@ -17,6 +17,9 @@ Guess My Number is a simple web-based guessing game hosted on Netlify. Player gu
  <br/> 
    <img src="./ReadME__img/04 - Guess My Number/guessMyNumber.png" alt="Guess My Number">
 <br/>
+ <br/> 
+   <img src="./ReadME__img/04 - Guess My Number/guessMyNumber2.png" alt="Guess My Number">
+<br/>
 
 ### What did I learn while coding this project ?
 
